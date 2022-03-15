@@ -21,6 +21,7 @@ function App() {
           <Route path="/organizaciones" exact element={<PersonasList/>}/>
         </Routes>
       </BrowserRouter>
+      <p>HOla</p>
     </div>
   );
 }
